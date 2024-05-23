@@ -1,0 +1,7 @@
+@import 'reset.css';
+:root{
+    --bg-color: whitesmoke;
+}
+body{
+    background: var(--bg-color);
+}
